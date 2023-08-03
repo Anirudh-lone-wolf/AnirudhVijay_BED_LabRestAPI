@@ -1,2 +1,13 @@
 # AnirudhVijay_BED_LabRestAPI
-This Repository has solution for Lab 6 Problem Statement
+## This Repository has solution for Lab 5 Problem Statement
+* This is a Spring MVC Project built using Spring Boot.
+* The main package is : com.glearning.LabSixDebateEvent which conatins the driver class of the application.
+* There are 5 sub-packages :
+    * com.glearning.LabSixDebateEvent.model - the entity class
+    * com.glearning.LabSixDebateEvent.doa - contains an interface which extends JpaRepository for database related operations in spring
+    * com.glearning.LabSixDebateEvent.service - which will has an Interface and an implementation class. Here the JpaRepository methods are used for                                                               different CRUD operations required by the use case
+    * com.glearning.LabSixDebateEvent.controller - which will have url mappings to perfom different CRUD functionalities in the UI
+    * com.glearning.LabSixDebateEvent.security - This contains the Role-Based Authorization code.
+    * com.glearning.LabSixDebateEvent.test
+* The database used in the Project is MYSQL Database.
+
