@@ -9,6 +9,6 @@
     * com.glearning.LabSixDebateEvent.controller - which will have url mappings to perfom different CRUD functionalities in the UI
     * com.glearning.LabSixDebateEvent.security - This contains the Role-Based Authorization code.
     * **com.glearning.LabSixDebateEvent.test -This is the additional packages which conatins a set of dummy values. the evalualtor can use the username and 
-                                               password given here to check the application Or, they can enter their own username, password and asscoation in join table through sql queries in MYSQL
+                                               password given here to check the application Or, they can enter their own username, password and asscoation in join table through sql queries in MYSQL**
 * The database used in the Project is MYSQL Database.
 
