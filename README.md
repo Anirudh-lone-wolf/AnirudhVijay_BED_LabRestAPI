@@ -3,6 +3,7 @@
 
 * This is a Spring MVC Project built using Spring Boot.
 * The main package is : com.glearning.LabSixDebateEvent which conatins the driver class of the application.
+* The URL to access the application is : 
 * There are 6 sub-packages :
     * com.glearning.LabSixDebateEvent.model - the entity class
     * com.glearning.LabSixDebateEvent.doa - contains an interface which extends JpaRepository for database related operations in spring
